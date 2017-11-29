@@ -1,1 +1,1 @@
-let name = "index_123.js";
+let name = "index_other.js";
